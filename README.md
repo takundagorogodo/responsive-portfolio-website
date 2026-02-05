@@ -28,15 +28,18 @@ The project emphasizes **responsive design, mobile navigation, and clean fronten
 
 ### 🖥️ Desktop View
 
-![Desktop Screenshot](screenshots/desktop.png)
+![Desktop Screenshot](screenshots/home.png)
 
 ### 📱 Mobile View
 
 ![Mobile Screenshot](screenshots/mobile.png)
 
-### 📂 Navigation Menu
-
-![Menu Screenshot](screenshots/menu.png)
+##About
+![Menu Screenshot](screenshots/about_1.png)
+##Contact
+![Menu Screenshot](screenshots/contact.png)
+##footer
+![Menu Screenshot](screenshots/footer.png)
 
 ---
 
