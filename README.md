@@ -32,7 +32,7 @@ The project emphasizes **responsive design, mobile navigation, and clean fronten
 
 ### 📱 Mobile View
 
-![Mobile Screenshot](screenshots/mobile.png)
+![Mobile Screenshot](screenshots/tablet.png)
 
 ##About
 ![Menu Screenshot](screenshots/about_1.png)
